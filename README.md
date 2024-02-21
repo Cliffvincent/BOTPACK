@@ -35,12 +35,12 @@
 
 <div align="center">
 			<h3>My Replit Account ->
-			<a href="https://replit.com/@CliffvincentTor" style="color: green;">@CliffVincent🔥</a>
+			<a href="https://replit.com/@CliffvincentTor" style="color: green;">@MAHIKHAN🔥</a>
 				<br>
 	My Facebook Account ->
 	<a href="https://www.facebook.com/swordigo.swordslush?mibextid=rS40aB7S9Ucbxw6v" style="color: green;">Yazky🚀</a></h3></div>
 
-<img align="center" src="https://i.ibb.co/XVnmz7j/1000002116.png"/>
+<img align="center" src="https://i.imgur.com/fQPQrLg.jpeg"/>
 
 <p align="center">
 		<img align="center" alt="PNG" src="https://i.postimg.cc/Y2XShSm8/86678c65-896a-47fe-8256-3e8e76dd26d6.jpg"/>
